@@ -1,0 +1,10 @@
+name: ip2country
+version: 0.1.5
+
+authors:
+  - Arcage <arcage@denchu.org>
+  - r3id <alan@r3id.dev>
+
+crystal: ">= 0.35.1, < 2.0.0"
+
+license: MIT
